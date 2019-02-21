@@ -1,0 +1,1 @@
+class Columns < ActiveRecord::Migration
